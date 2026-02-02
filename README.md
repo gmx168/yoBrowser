@@ -1,4 +1,4 @@
-# yoBrowser
+# yoMaBrowser (yoRadio and Maestro browser)
 [ENG]
 Implementation of radio stations browser feature to old yoRadio versions (incl. Maestro)
 
